@@ -1,2 +1,3 @@
 I am teachiing Github
 This is added after first commit
+Third Line added
